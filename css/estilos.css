@@ -1,0 +1,53 @@
+body {
+
+    background-color: seashell;
+    background-size: auto 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.Menu1 {
+    background-color: white; 
+    
+}
+
+.Menu1 ul {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.Menu1 li {
+    list-style: none;
+    color: black;
+
+} 
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul {
+
+}
+
+.topo {
+    background-color:bisque;
+
+}
+
+.site-tittle {
+    text-align: center;
+    color:burlywood;
+      
+}
+
+.site-subtittle {
+  text-align: center;
+   color: whitesmoke;
+   font-size: 20px;
+}
